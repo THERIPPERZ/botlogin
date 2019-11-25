@@ -1,0 +1,70 @@
+{
+    "info": {
+        "u3fac1eefd6f2c08d2e33ee24c0f3853f": "@Arm.420",
+        "u406577b5a4fc096f85dfbcace7dec8a4": "@❌ปราบปรามคนโกง❌",
+        "u498b058fe9903d8cc94320c38aef38c0": "@꧁⫸⚡",
+        "u507fc81a924d698c485c092833af12a9": "@✶✨",
+        "u637ee64df76580c741de37cc238fc17b": "@🍪Ø",
+        "u77d7acc8d7fbe34b58f042ea484d005e": "@⫸◐ÀŘỂÑÀ◑⫷",
+        "u7dd00c42c774ab7cf68913ffb078a88a": "@Ǥąღع",
+        "ua60d14b377fe57cc3dd05a2bd0817637": "@꧁⫸☫",
+        "ufcd7d71d1807cbd8a7b3a9edc440629d": "@-๑Iด็กOมยิ้ม๑-"
+    },
+    "limit": {},
+    "name": {
+        "@-๑Iด็กOมยิ้ม๑-": {
+            "mid": "ufcd7d71d1807cbd8a7b3a9edc440629d",
+            "pay": 1577292561.2593665,
+            "runtime": 1574700561.2593665,
+            "token": {}
+        },
+        "@Arm.420": {
+            "mid": "u3fac1eefd6f2c08d2e33ee24c0f3853f",
+            "pay": 1577253134.5322607,
+            "runtime": 1574661134.5322607,
+            "token": "ELD6qbk3h87YGgd7hChf.p6WE79BYWi0Um/4KWpofpW.c9PNBaVrQC8HfVNVX6cp1fNE+CkX6acAspYtdUHDHlk="
+        },
+        "@Ǥąღع": {
+            "mid": "u7dd00c42c774ab7cf68913ffb078a88a",
+            "pay": 1577273747.866266,
+            "runtime": 1574681747.866266,
+            "token": "ELqYoJdMCs1VnIlZAzva.FDamqSD0Q3Z2Irp+ShIOIG.ptGpvrWIaAP1Eiy35bYN7dAIpFxa6KfR1uPFFBIgLx8="
+        },
+        "@✶✨": {
+            "mid": "u507fc81a924d698c485c092833af12a9",
+            "pay": 1577271565.7537239,
+            "runtime": 1574679565.7537239,
+            "token": "ELEPda1IcUntcCkVd8S9.uh+igPjnAyXixaKOm68sQq.ezIYz0WOFduQPLSKG/JwBFAZkcFA1muvsmV28NqL4go="
+        },
+        "@❌ปราบปรามคนโกง❌": {
+            "mid": "u406577b5a4fc096f85dfbcace7dec8a4",
+            "pay": 1577254238.0130377,
+            "runtime": 1574662238.0130377,
+            "token": "ELDYSQp0OTilrjQw0nO4.qgv3TAt8cw/f37YS597iPa.dHem5AsR2FkPPX/QA7W0luI214EioTHhZRN2YFECgAA="
+        },
+        "@⫸◐ÀŘỂÑÀ◑⫷": {
+            "mid": "u77d7acc8d7fbe34b58f042ea484d005e",
+            "pay": 1577268898.1735234,
+            "runtime": 1574676898.1735234,
+            "token": "ELPVSSXxzbpsTQtQVKie.D9ESYnF740Ty8elQse0axG.DrCM2Hs5L/4HPTjWIGUUTJ0BxWqLyw3rvWPSzAeN9Dg="
+        },
+        "@꧁⫸☫": {
+            "mid": "ua60d14b377fe57cc3dd05a2bd0817637",
+            "pay": 1577253741.798259,
+            "runtime": 1574661741.798259,
+            "token": "ELAtvfI8jN645IVd6Qj7.PG0uS3F/v8W90fOR0if2nW.ETw1D6aBsCI8ZUmDpxzTUjwZpN/vsBk1W+W4X0pdSOs="
+        },
+        "@꧁⫸⚡": {
+            "mid": "u498b058fe9903d8cc94320c38aef38c0",
+            "pay": 1577253734.3730042,
+            "runtime": 1574661734.3730042,
+            "token": "ELfcjq34jm4UNLnkb7m0.sySfJ/MqpyZjqYddIU84Wa.4stIt9hfQ9jm6gCcdzBpbG9yLiQsmrj6TY+pUdLBCq0="
+        },
+        "@🍪Ø": {
+            "mid": "u637ee64df76580c741de37cc238fc17b",
+            "pay": 1577254215.6420293,
+            "runtime": 1574662215.6420293,
+            "token": "ELIPSUG8Qy6n8LeuHNAb.y37MtFDLGmDb3JFmi4+bEW.dcV0dMLKklkYYL0c3XVG0858dd15vDA7O/QU3WZVhnM="
+        }
+    }
+}

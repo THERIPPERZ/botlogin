@@ -1,0 +1,210 @@
+{
+    "Leave": false,
+    "Sticker": false,
+    "Wc": false,
+    "Welcome": false,
+    "access_key": "0066725464abd96d2cee00863ad9067f",
+    "access_token": "ec6a73ed66f5704bf4d071a2174fb736238aaeb6",
+    "addContact": {
+        "name": "",
+        "status": false
+    },
+    "addImage": {
+        "name": "",
+        "status": false
+    },
+    "addPesan": "",
+    "addSticker": {
+        "name": "",
+        "status": false
+    },
+    "addStickers": {
+        "name": "",
+        "status": false
+    },
+    "admin": [
+        "u51f2d901e6ae79ea2649062da18176df"
+    ],
+    "ani_guess": [
+        "c9a9f741633543d70449a7d9801cbbd28"
+    ],
+    "apiKey": "8e3cf182-807a-4186-9261-a6c8741a9237",
+    "autoAdd": false,
+    "autoJoin": false,
+    "autoJoinTicket": false,
+    "autoLeave": false,
+    "autoRead": false,
+    "autoRead1": false,
+    "autoRestart": false,
+    "autoblock": true,
+    "autolike": true,
+    "blacklist": {
+        "u1605c01fd1b9eb9019f2a3c137885768": true,
+        "u161b2fc31a19df156271117c4e49c157": true,
+        "u180385ce4eb54ad5fb6e9381379a7511": true,
+        "u1db16affd815694429f659791a677b60": true,
+        "u34939041d0f56287be8c1ef73dd5c1ef": true,
+        "u3505158525ff9883eb65d83eef432215": true,
+        "u358bc85c713bc2873d67190d944ff4b4": true,
+        "u4ff8394b78b417611bf6001fe09d35e7": true,
+        "u5288f0bcb5ea0f94bb9a1d5a32e8c429": true,
+        "u7670b444bedae504a2a9cf82b83e9e56": true,
+        "u77f8f0e10390aa6c13cd32922272e6b7": true,
+        "u80c7614d483a198ffbf4f0029138814e": true,
+        "u849ee59bd50e6b9d54203e3dc599cc0d": true,
+        "u89011cf0b02bee3228496410135004a7": true,
+        "u8de9b85bf2f876dcf19be50d80375c84": true,
+        "ua8a8615c78fd913ce1c7b139f18dc7f2": true,
+        "ua90870642311e7671699cd2c66b7a48b": true,
+        "ub56699652a3a4554da8de25e387078dc": true,
+        "ubbf2a745df3c8ad0ea5ab03e8d1e0ae6": true,
+        "ubfc0e5c4a88f2d72e09dde029de6f43a": true,
+        "uce58bd0e15f5bee8f88a8beaaa3a540a": true,
+        "ud0bada819d2ddcf11c3731bcc1522470": true,
+        "ud64d6cd681034080105d126a1751adb4": true,
+        "uda1030a718222d8be581823859b3048f": true,
+        "udc8027f1f145a11ac0830669791088da": true,
+        "ue5de54b1a64a6c11f5aa12aeefa903f5": true,
+        "uedfb7a1464df8271c30f682bb6c2655e": true,
+        "ufccfd40a710ec304c406a7443a09f483": true
+    },
+    "botMute": [],
+    "botOff": [],
+    "changeCover": false,
+    "changeGroupPicture": [],
+    "changePicture": false,
+    "changeProfileCover": "",
+    "changeProfileVideo": {
+        "picture": "tmp/pict.bin",
+        "stage": 2,
+        "status": false,
+        "video": "/tmp/linepy-1533757450-2.bin"
+    },
+    "changeVideo": false,
+    "chatbot": {
+        "": false
+    },
+    "checkContact": false,
+    "checkPost": false,
+    "checkSticker": false,
+    "com": false,
+    "commet": ".\n🇹🇭 เชลบอท By: โยจัง>< \n📌บริการให้เชลบอท\n📌 สนใจติดต่อแอดมินทักแชทได้คะ\n📌 ทางเรายินดีให้คำแนะนำ\n\nline://ti/p/~xj6gbn222",
+    "content": {
+        "sam": [
+            "u51f2d901e6ae79ea2649062da18176df",
+            "u51f2d901e6ae79ea2649062da18176df",
+            "u51f2d901e6ae79ea2649062da18176df9"
+        ],
+        "status": true
+    },
+    "dblacklist": false,
+    "detectMention": false,
+    "fancy": {
+        "foto1": [],
+        "foto2": [],
+        "foto3": [],
+        "status": false
+    },
+    "getReader": {},
+    "keyCommand": "khie ",
+    "leaveMessage": false,
+    "leavePesan": "Halo @!, kenapa leave dari grup {gname}??",
+    "leaveRoom": false,
+    "lv": false,
+    "mayhem": false,
+    "mentionPesan": "Asw lo @!, Ngapain tag\" gw 􀜅􀄃hmm􏿿",
+    "messageSticker": {
+        "addName": "readerSticker",
+        "addStatus": false,
+        "listSticker": {
+            "addSticker": {
+                "STKID": "2384546",
+                "STKPKGID": "1057495",
+                "STKVER": "14",
+                "status": true
+            },
+            "leaveSticker": null,
+            "mentionSticker": {
+                "STKID": "11979804",
+                "STKPKGID": "1295985",
+                "STKVER": "1"
+            },
+            "readerSticker": null,
+            "replySticker": null,
+            "welcomeSticker": null
+        }
+    },
+    "mimic": {
+        "copy": false,
+        "status": true,
+        "target": {
+            "u51f2d901e6ae79ea2649062da18176df": true
+        }
+    },
+    "myProfile": {
+        "coverId": "a39b001881d2f6ccc324aa101d8f04af",
+        "coverStatus": "",
+        "displayName": "🍪Ø Ɽ Ɇ Ø.420🍪",
+        "pictureStatus": "0hPoCAY9g4D0B-OCSWKo9wF0J9AS0JFgkIBllCIA9sVnUGX04RRldBdF09USUHCk5EEF1CLwxqUXYA",
+        "statusMessage": "📣ไม่พึงหาทรัพย์ ด้วยการโกง ตัวจริงKBANKลงท้าย1330 เท่านั้น📣",
+        "videoProfile": null
+    },
+    "notag": false,
+    "postId": [
+        "1156994878911069038",
+        "1157006865812047815",
+        "1157007341612040019",
+        "1157339833209038796",
+        "1157341130601063235",
+        "1157341130601063235",
+        "1157342922303069983",
+        "1157342922303069983"
+    ],
+    "protectGroupImage": false,
+    "protectGroupName": false,
+    "protectGroupQr": false,
+    "publicMode": false,
+    "qrprotect": false,
+    "readerPesan": "Gw @!, Kang Sider",
+    "reply": "แทคในกลุ่มมีไรปะครับ >_<",
+    "replys": false,
+    "resendChat": false,
+    "responGc": false,
+    "restartBot": null,
+    "restartPoint": null,
+    "server": "VPS",
+    "setKey": false,
+    "tag": false,
+    "timeRestart": 43200,
+    "ttt": "line://app/1602687308-GXq4Vvk9?type=text&text=",
+    "unsendMessage": false,
+    "userAgent": [
+        "Mozilla/5.0 (X11; U; Linux i586; de; rv:5.0) Gecko/20100101 Firefox/5.0",
+        "Mozilla/5.0 (X11; U; Linux amd64; rv:5.0) Gecko/20100101 Firefox/5.0 (Debian)",
+        "Mozilla/5.0 (X11; U; Linux amd64; en-US; rv:5.0) Gecko/20110619 Firefox/5.0",
+        "Mozilla/5.0 (X11; Linux) Gecko Firefox/5.0",
+        "Mozilla/5.0 (X11; Linux x86_64; rv:5.0) Gecko/20100101 Firefox/5.0 FirePHP/0.5",
+        "Mozilla/5.0 (X11; Linux x86_64; rv:5.0) Gecko/20100101 Firefox/5.0 Firefox/5.0",
+        "Mozilla/5.0 (X11; Linux x86_64) Gecko Firefox/5.0",
+        "Mozilla/5.0 (X11; Linux ppc; rv:5.0) Gecko/20100101 Firefox/5.0",
+        "Mozilla/5.0 (X11; Linux AMD64) Gecko Firefox/5.0",
+        "Mozilla/5.0 (X11; FreeBSD amd64; rv:5.0) Gecko/20100101 Firefox/5.0",
+        "Mozilla/5.0 (Windows NT 6.2; WOW64; rv:5.0) Gecko/20100101 Firefox/5.0",
+        "Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:5.0) Gecko/20110619 Firefox/5.0",
+        "Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:5.0) Gecko/20100101 Firefox/5.0",
+        "Mozilla/5.0 (Windows NT 6.1; rv:6.0) Gecko/20100101 Firefox/5.0",
+        "Mozilla/5.0 (Windows NT 6.1.1; rv:5.0) Gecko/20100101 Firefox/5.0",
+        "Mozilla/5.0 (Windows NT 5.2; WOW64; rv:5.0) Gecko/20100101 Firefox/5.0",
+        "Mozilla/5.0 (Windows NT 5.1; U; rv:5.0) Gecko/20100101 Firefox/5.0",
+        "Mozilla/5.0 (Windows NT 5.1; rv:2.0.1) Gecko/20100101 Firefox/5.0",
+        "Mozilla/5.0 (Windows NT 5.0; WOW64; rv:5.0) Gecko/20100101 Firefox/5.0",
+        "Mozilla/5.0 (Windows NT 5.0; rv:5.0) Gecko/20100101 Firefox/5.0"
+    ],
+    "userMentioned": {},
+    "waktu": 10,
+    "wblacklist": false,
+    "wcsti2": false,
+    "welcomeMessage": false,
+    "welcomePesan": "Selamat datang di grup {gname} @! Semoga betah yah 􀜅􀆚Hare Krishna􏿿",
+    "winvite": true
+}
